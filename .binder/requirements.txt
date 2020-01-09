@@ -1,0 +1,10 @@
+streamlit 
+jupyter-server-proxy 
+nbserverproxy
+pandas
+pandas-profiling
+matplotlib
+seaborn
+joblib
+termcolor
+scikit-learn
